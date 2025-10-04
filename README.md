@@ -75,6 +75,6 @@ Integrate with a recommendation system pipeline.
 
 🧑‍💻 Author
 
-Project by: AGNIMITRA BANERJEE
+Project by: AGNIRUDRA BANERJEE
 Domain: Machine Learning / Data Science
 Focus Area: Unsupervised Learning, NLP, and Content Analytics
